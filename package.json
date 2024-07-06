@@ -1,0 +1,19 @@
+{
+  "name": "socialmedia-hoverboard",
+  "version": "1.0.2",
+  "description": "Creative stylish feature of social media icons together on a board.Use this social media board on your web pages. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisatishivatmika/socialmedia-hoverboard.git"
+  },
+  "author": "shivatmika reddy pisati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pisatishivatmika/socialmedia-hoverboard/issues"
+  },
+  "homepage": "https://github.com/pisatishivatmika/socialmedia-hoverboard#readme"
+}
